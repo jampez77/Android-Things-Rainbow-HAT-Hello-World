@@ -1,4 +1,4 @@
-### Hello World Rainbow HAT
+### Hello World Rainbow HAT (Kotlin)
 
 This is a really quick project I put together to help me get to know the Android Things platform.
 
